@@ -1,0 +1,136 @@
+{
+  "name": "Material-Forest",
+  "description": "Inspired by Material themes",
+  "authors": [
+    {
+      "name": "knooight"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#ffcc80"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#002626"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#002626"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#002e2e"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#002e2e"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#002e2e"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#002020"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#002020"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#002e2e"
+    ],
+    "CHAT_BACKGROUND": [
+      "#002626"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#49694d"
+    ],
+    "CHANNEL_ICON": [
+      "#71936c"
+    ],
+    "HEADER_PRIMARY": [
+      "#71936c"
+    ],
+    "HEADER_SECONDARY": [
+      "#b2c2b0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#59a66e"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#002e2e"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#005454"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#71936c"
+    ],
+    "TEXT_MUTED": [
+      "#49694d"
+    ],
+    "TEXT_NORMAL": [
+      "#b2c2b0"
+    ],
+    "TEXT_LINK": [
+      "#80cbc4"
+    ]
+  },
+  "rawColors": {
+    "BRAND_360": "#89ddff",
+    "BRAND_500": "#ffcc80",
+    "BRAND_560": "#89ddff",
+    "PRIMARY_230": "#71936c",
+    "PRIMARY_300": "#b2c2b0",
+    "PRIMARY_400": "#DF0AD8",
+    "PRIMARY_460": "#ffcc80",
+    "PRIMARY_500": "#002e2e",
+    "PRIMARY_600": "#002626",
+    "PRIMARY_630": "#002e2e",
+    "PRIMARY_660": "#002020",
+    "PRIMARY_700": "#002020",
+    "PRIMARY_730": "#DFDF0A",
+    "PRIMARY_760": "#DF580A",
+    "PRIMARY_800": "#002020",
+    "GREEN_100": "#1d833f",
+    "GREEN_130": "#1d833f",
+    "GREEN_160": "#1d833f",
+    "GREEN_200": "#1d833f",
+    "GREEN_230": "#1d833f",
+    "GREEN_260": "#1d833f",
+    "GREEN_300": "#1d833f",
+    "GREEN_330": "#1d833f",
+    "GREEN_345": "#1d833f",
+    "GREEN_360": "#1d833f",
+    "GREEN_400": "#1d833f",
+    "GREEN_430": "#1d833f",
+    "GREEN_460": "#1d833f",
+    "GREEN_500": "#1d833f",
+    "GREEN_530": "#1d833f",
+    "GREEN_560": "#1d833f",
+    "GREEN_600": "#1d833f",
+    "GREEN_630": "#1d833f",
+    "GREEN_660": "#1d833f",
+    "GREEN_700": "#1d833f",
+    "GREEN_730": "#1d833f",
+    "GREEN_760": "#1d833f",
+    "GREEN_800": "#1d833f",
+    "GREEN_830": "#1d833f",
+    "GREEN_860": "#1d833f",
+    "GREEN_900": "#1d833f",
+    "RED_400": "#f07178",
+    "RED_430": "#f07178",
+    "RED_460": "#f07178",
+    "WHITE_500": "#003838",
+    "YELLOW_300": "#89ddff"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": "#f78c6c",
+      "StatusOffline": "#005454",
+      "StatusOnline": "#1d833f",
+      "StatusMobileOnline": "#1d833f",
+      "StatusDND": "#ff5370",
+      "StatusIdle": "#ffcb6b",
+      "StatusStreaming": "#c792ea"
+    }
+  },
+  "spec": 2
+}
