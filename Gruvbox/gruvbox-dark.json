@@ -1,0 +1,219 @@
+{
+    "name": "Gruvbox Darker",
+    "description": "Inspired by Sainnhe's Gruvbox theme",
+    "authors": [
+        {
+            "name": "annoying"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#83a598",
+            "#266b79"
+        ],
+        "HEADER_SECONDARY": [
+            "#665c54"
+        ],
+        "TEXT_NORMAL": [
+            "#ebdbb2",
+            "#3c3836"
+        ],
+        "TEXT_MUTED": [
+            "#7e7267"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#e7d7ad",
+            "#504945"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#7e7267"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ebdbb2",
+            "#3c3836"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#665c54"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#171a1a",
+            "#e6d5ae"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1d2021",
+            "#f2e5bc"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1d2021",
+            "#d5c4a1"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#0d0e0f",
+            "#d5c4a1"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#458588",
+            "#076678"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1d2021",
+            "#dac9a5"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#171a1a"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#171a1a",
+            "#e6d5ae"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1d2021"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#504945 "
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#242424"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#677fa2ac"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#32302f"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#202020"
+        ],
+        "CARD_PRIMARY_BG": [  
+             "#171a1a",  
+             "#d5c4a1"  
+        ], 
+        "CARD_SECONDARY_BG": [  
+             "#1d2021",  
+             "#f2e5bc"  
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#202020"
+        ],
+        "CHANNEL_TEXT_AREA_BACKGROUND": [
+            "#665c54"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#665654",
+            "#7c6f64"
+        ],
+        "ACTIVITY_CARD_BACKGROUND": [
+            "#af2528",
+            "#af2528"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#7e7267"
+        ],
+        "HOME_BACKGROUND": [
+            "#1d2021"
+        ],
+        "TEXT_LINK": [
+            "#8ec07c",
+            "#11a4d4"
+        ],
+        "TEXT_DANGER": [
+            "#cc241d",
+            "#9d0006"
+        ],
+        "KEYBOARD": [
+            "#1d2021",
+            "#ae5858"
+        ],
+        "CHANNEL_ICON": [
+            "#83a598",
+            "#266b79"
+        ],
+        "CHAT_BACKGROUND": [
+            "#171a1a",
+            "#dac9a5"
+        ],
+        "MENTION_FOREGROUND": [
+            "#ab547b"
+        ],
+        "MENTION_BACKGROUND": [
+            "#d194a4"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1d2021"
+        ]
+    },
+    "rawColors": {
+        "BRAND_260": "#83a598",
+        "BRAND_360": "#b16286",
+        "BRAND_500": "#458588",
+        "BRAND_560": "#b16286",
+        "PRIMARY_100": "#e7d7ad",
+        "PRIMARY_230": "#e7d7ad",
+        "PRIMARY_400": "#ab547b",
+        "PRIMARY_460": "#458588",
+        "PRIMARY_500": "#b29076",
+        "PRIMARY_600": "#171a1a",
+        "PRIMARY_630": "#1d2021",
+        "PRIMARY_700": "#1d2021",
+        "PRIMARY_760": "#171a1a",
+        "PRIMARY_800": "#171a1a",
+        "GREEN_100": "#689b6a",
+        "GREEN_130": "#689b6a",
+        "GREEN_160": "#689b6a",
+        "GREEN_200": "#689b6a",
+        "GREEN_230": "#689b6a",
+        "GREEN_260": "#689b6a",
+        "GREEN_300": "#689b6a",
+        "GREEN_330": "#689b6a",
+        "GREEN_345": "#689b6a",
+        "GREEN_360": "#689b6a",
+        "GREEN_400": "#689b6a",
+        "GREEN_430": "#689b6a",
+        "GREEN_460": "#689b6a",
+        "GREEN_500": "#689b6a",
+        "GREEN_530": "#689b6a",
+        "GREEN_560": "#689b6a",
+        "GREEN_600": "#689b6a",
+        "GREEN_630": "#689b6a",
+        "GREEN_660": "#689b6a",
+        "GREEN_700": "#689b6a",
+        "GREEN_730": "#689b6a",
+        "GREEN_760": "#689b6a",
+        "GREEN_800": "#689b6a",
+        "GREEN_830": "#689b6a",
+        "GREEN_860": "#689b6a",
+        "GREEN_900": "#689b6a",
+        "RED_400": "#cc241d",
+        "RED_430": "#cc241d",
+        "RED_460": "#cc241d",
+        "WHITE_500": "#e7d7ad",
+        "YELLOW_300": "#7fa2ac",
+        "GUILD_BOOSTING_PINK" : "#eb6f92"
+    },
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+            "ic_new_pins": "#fb4934",
+            "StatusIdle": "#eebd35",
+            "StatusDND": "#cc241d",
+            "StatusOnline": "#8ec07c",
+            "StatusMobileOnline": "#689d6a",
+            "StatusOffline": "#6e6a86",
+            "StatusStreaming": "#7fa2ac"
+        }
+    },
+    "spec": 2
+}
