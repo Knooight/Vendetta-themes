@@ -1,0 +1,117 @@
+{
+  "name": "Rosé Pine",
+  "authors": [
+    {
+      "name": "Knoight"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#31748f"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#26233a"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#191724"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#232136",
+      "#26233a",
+      "#2a273f"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1f1d2e"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1f1d2e"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#191724"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#26233a"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#908caa"
+    ],
+    "CHANNEL_ICON": [
+      "#ebbcba"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [ 
+      "#6e6a86"
+    ],
+    "HEADER_PRIMARY": [
+      "#ebbcba"
+    ],
+    "HEADER_SECONDARY": [
+      "#6e6a86"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#e0def4"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#908caa"
+    ],
+    "TEXT_DANGER": [
+      "#eb6f92"
+    ],
+    "TEXT_LINK": [
+      "#9ccfd8"
+    ],
+    "TEXT_MUTED": [
+      "#6e6a86"
+    ],
+    "TEXT_NORMAL": [ 
+      "#e0def4" 
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": "#31748f",
+    "PRIMARY_100": "#e0def4",
+    "PRIMARY_230": "#e0def4",
+    "PRIMARY_400": "#ebbcba",
+    "PRIMARY_600": "#191724",
+    "PRIMARY_630": "#1f1d2e",
+    "PRIMARY_660": "#1f1d2e",
+    "PRIMARY_700": "#1f1d2e",
+    "GREEN_100": "#9ccfd8",
+    "GREEN_130": "#9ccfd8",
+    "GREEN_160": "#9ccfd8",
+    "GREEN_200": "#9ccfd8",
+    "GREEN_230": "#9ccfd8",
+    "GREEN_260": "#9ccfd8",
+    "GREEN_300": "#9ccfd8",
+    "GREEN_330": "#9ccfd8",
+    "GREEN_360": "#9ccfd8",
+    "GREEN_400": "#9ccfd8",
+    "GREEN_430": "#9ccfd8",
+    "GREEN_460": "#9ccfd8",
+    "GREEN_500": "#9ccfd8",
+    "GREEN_530": "#9ccfd8",
+    "GREEN_560": "#9ccfd8",
+    "GREEN_600": "#9ccfd8",
+    "GREEN_630": "#9ccfd8",
+    "GREEN_660": "#9ccfd8",
+    "GREEN_700": "#9ccfd8",
+    "GREEN_730": "#9ccfd8",
+    "GREEN_760": "#9ccfd8",
+    "RED_400": "#eb6f92",
+    "RED_430": "#eb6f92"
+  },
+  "plus": {
+    "iconpack": "rosiecord-plumpy",
+    "version" : 0,
+    "icons": {
+      "ic_new_pins": "#ebbcba",
+      "ic_notification_settings": "#9ccfd8",
+      "StatusMobileOnline": "#9ccfd8",
+      "StatusOnline": "#9ccfd8",
+      "StatusOffline": "#6e6a86",
+      "StatusDND": "#eb6f92",
+      "StatusIdle": "#f6c177",
+      "StatusStreaming": "#c4a7e7"
+    }
+  },
+  "spec": 2
+}
