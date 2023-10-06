@@ -1,0 +1,128 @@
+{
+  "name": "Night Owl",
+  "description": "Inspired by Material themes",
+  "authors": [
+    {
+      "name": "knooight"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#7e57c2"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#092135"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#011627"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#092135"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#011627"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#092135"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0b2942"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#010e1a"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#0b2942"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#011627"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#4f687d"
+    ],
+    "CHANNEL_ICON": [
+      "#62829d"
+    ],
+    "HEADER_PRIMARY": [
+      "#62829d"
+    ],
+    "HOME_BACKGROUND": [
+      "#011627"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#a8b9d4"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#31414e"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#62829d"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "TEXT_DANGER": [
+      "#ef5350"
+    ],
+    "TEXT_LINK": [
+      "#ecc48d"
+    ],
+    "TEXT_NORMAL": [
+      "#b1c1ce"
+    ]
+  },
+  "rawColors": {
+    "BRAND_360": "#ecc48d",
+    "BRAND_500": "#7e57c2",
+    "BRAND_560": "#ecc48d",
+    "PRIMARY_230": "#62829d",
+    "PRIMARY_400": "#ecc48d",
+    "PRIMARY_460": "#0b2942",
+    "PRIMARY_600": "#011627",
+    "PRIMARY_630": "#092135",
+    "PRIMARY_660": "#0b2942",
+    "PRIMARY_700": "#0b2942",
+    "GREEN_100": "#addb67",
+    "GREEN_130": "#addb67",
+    "GREEN_160": "#addb67",
+    "GREEN_200": "#addb67",
+    "GREEN_230": "#addb67",
+    "GREEN_260": "#addb67",
+    "GREEN_300": "#addb67",
+    "GREEN_330": "#addb67",
+    "GREEN_345": "#addb67",
+    "GREEN_360": "#addb67",
+    "GREEN_400": "#addb67",
+    "GREEN_430": "#addb67",
+    "GREEN_460": "#addb67",
+    "GREEN_500": "#addb67",
+    "GREEN_530": "#addb67",
+    "GREEN_560": "#addb67",
+    "GREEN_600": "#addb67",
+    "GREEN_630": "#addb67",
+    "GREEN_660": "#addb67",
+    "GREEN_700": "#addb67",
+    "GREEN_730": "#addb67",
+    "GREEN_760": "#addb67",
+    "GREEN_800": "#addb67",
+    "GREEN_830": "#addb67",
+    "GREEN_860": "#addb67",
+    "GREEN_900": "#addb67",
+    "RED_400": "#ff6363",
+    "YELLOW_300": "#7fdbca"
+  },
+  "spec": 2,
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": "#f78c6c",
+      "StatusOffline": "#637777",
+      "StatusOnline": "#addb67",
+      "StatusMobileOnline": "#addb67",
+      "StatusDND": "#ff6363",
+      "StatusIdle": "#ecc48d",
+      "StatusStreaming": "#c792ea"
+    }
+  }
+}
