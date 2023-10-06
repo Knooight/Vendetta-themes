@@ -1,0 +1,48 @@
+{ 
+  "name": "Rosé Pine Dawn",
+  "authors": [ 
+    { 
+      "name": "Knoight" 
+    } 
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#286983", "#286983"],
+    "BACKGROUND_MOBILE_SECONDARY" :["#faf4ed", "#faf4ed"],
+    "BACKGROUND_PRIMARY": ["#faf4ed", "#faf4ed"],
+    "BACKGROUND_SECONDARY": ["#fffaf3", "#fffaf3"],
+    "BACKGROUND_SECONDARY_ALT": ["#f2e9e1", "#f2e9e1"],
+    "BACKGROUND_TERTIARY": ["#f2e9e1", "#f2e9e1"],
+    "CHAT_BACKGROUND": ["#faf4ed", "#faf4ed"],
+    "CHANNEL_ICON": ["#d7827e", "#d7827e"],
+    "HEADER_PRIMARY": ["#d7827e", "#d7827e"],
+    "TEXT_NORMAL": ["#575279", "#574279"]
+  },
+  "rawColors": {
+    "BRAND_500": "#286983",
+    "BLACK_500": "#faf4ed",
+    "BLACK_600": "#faf4ed",
+    "GREEN_100": "#56949f", 
+    "GREEN_130": "#56949f",
+    "GREEN_160": "#56949f", 
+    "GREEN_200": "#56949f", 
+    "GREEN_230": "#56949f", 
+    "GREEN_260": "#56949f",
+    "GREEN_300": "#56949f", 
+    "GREEN_330": "#56949f", 
+    "GREEN_360": "#56949f", 
+    "GREEN_400": "#56949f", 
+    "GREEN_430": "#56949f", 
+    "GREEN_460": "#56949f", 
+    "GREEN_500": "#56949f", 
+    "GREEN_530": "#56949f", 
+    "GREEN_560": "#56949f", 
+    "GREEN_600": "#56949f", 
+    "GREEN_630": "#56949f", 
+    "GREEN_660": "#56949f", 
+    "GREEN_700": "#56949f", 
+    "GREEN_730": "#56949f", 
+    "GREEN_760": "#56949f",
+    "WHITE_500": "#fffaf3"
+  },
+  "spec": 2
+}
