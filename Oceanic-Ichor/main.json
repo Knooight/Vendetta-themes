@@ -1,0 +1,81 @@
+{
+  "name": "Oceanic Ichor",
+  "description": "A Dark blue and golden theme",
+  "authors": [
+    {
+      "name": "knooight"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#d6a159"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1c222a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#232932"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1c222a"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1c222a"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#232932"],
+    "BACKGROUND_PRIMARY": ["#161b22"],
+    "BACKGROUND_SECONDARY": ["#1c222a"],
+    "BACKGROUND_SECONDARY_ALT": ["#1c222a"],
+    "BACKGROUND_TERTIARY": ["#232932"],
+    "CARD_PRIMARY_BG": ["#161b22"],
+    "CARD_SECONDARY_BG": ["#232932"],
+    "CHANNELS_DEFAULT": ["#51627b","#5b6f8b"],
+    "CHANNEL_ICON": ["#a78e6d"],
+    "HEADER_PRIMARY": ["#d6a159"],
+    "HEADER_SECONDARY": ["#687e9d"],
+    "INTERACTIVE_ACTIVE": ["#93a2b8", "#bd9f75"],
+    "INTERACTIVE_NORMAL": ["#687e9d"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#232932"],
+    "TEXT_NORMAL": ["#ebd1ae","#fcf1da"]
+  },
+  "spec": 2,
+  "rawColors": {
+    "BRAND_500": "#d6a159",
+    "PRIMARY_230": "#687e9d",
+    "PRIMARY_300": "#161b22",
+    "PRIMARY_460": "#d6a159",
+    "PRIMARY_600": "#161b22",
+    "PRIMARY_630": "#1c222a",
+    "PRIMARY_660": "#232932",
+    "PRIMARY_700": "#232932",
+    "PRIMARY_800": "#232932",
+    "GREEN_100": "#0d7f86",
+    "GREEN_130": "#0d7f86",
+    "GREEN_160": "#0d7f86",
+    "GREEN_200": "#0d7f86",
+    "GREEN_230": "#0d7f86",
+    "GREEN_260": "#0d7f86",
+    "GREEN_300": "#0d7f86",
+    "GREEN_330": "#0d7f86",
+    "GREEN_345": "#0d7f86",
+    "GREEN_360": "#0d7f86",
+    "GREEN_400": "#0d7f86",
+    "GREEN_430": "#0d7f86",
+    "GREEN_460": "#0d7f86",
+    "GREEN_500": "#0d7f86",
+    "GREEN_530": "#0d7f86",
+    "GREEN_560": "#0d7f86",
+    "GREEN_600": "#0d7f86",
+    "GREEN_630": "#0d7f86",
+    "GREEN_660": "#0d7f86",
+    "GREEN_700": "#0d7f86",
+    "GREEN_730": "#0d7f86",
+    "GREEN_760": "#0d7f86",
+    "GREEN_800": "#0d7f86",
+    "GREEN_830": "#0d7f86",
+    "GREEN_860": "#0d7f86",
+    "GREEN_900": "#0d7f86"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": "#963134",
+      "StatusOffline": "#262b3a",
+      "StatusOnline": "#0d7f86",
+      "StatusMobileOnline": "#0d7f86",
+      "StatusIdle": "#d6a159",
+      "StatusDND": "#963134"
+    }
+  }
+}
