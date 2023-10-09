@@ -10,9 +10,6 @@
     "BACKGROUND_ACCENT": [
       "#7e57c2"
     ],
-    "BACKGROUND_FLOATING": [
-      "#092135"
-    ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#011627"
     ],
@@ -82,6 +79,7 @@
     "PRIMARY_630": "#092135",
     "PRIMARY_660": "#0b2942",
     "PRIMARY_700": "#0b2942",
+    "PRIMARY_800": "#092135",
     "GREEN_100": "#addb67",
     "GREEN_130": "#addb67",
     "GREEN_160": "#addb67",
