@@ -2,7 +2,12 @@
   "name": "Material Darker",
 
   "semanticColors": {
-    "BACKGROUND_ACCENT": ["#ff9800"]
+    "BACKGROUND_ACCENT": ["#ff9800"],
+    "BACKGROUND_PRIMARY": ["#212121"],
+    "BACKGROUND_SECONDARY": ["#292929"]
+  },
+  "rawColors": {
+    "BRAND_500": "#ff9800"
   },
   "spec": 2
 }
