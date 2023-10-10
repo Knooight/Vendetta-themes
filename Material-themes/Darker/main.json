@@ -6,11 +6,12 @@
     "BACKGROUND_MOBILE_SECONDARY": ["#212121"],
     "BACKGROUND_PRIMARY": ["#212121"],
     "BACKGROUND_SECONDARY": ["#292929"],
-    "BACKGROUND_TERTIARY": ["#1a1a1a"]
+    "BACKGROUND_TERTIARY": ["#333333"]
   },
   "rawColors": {
     "BRAND_500": "#ff9800",
     "PRIMARY_600": "#212121",
+    "PRIMARY_700": "#292929",
     "PRIMARY_800": "#1a1a1a"
   },
   "spec": 2
