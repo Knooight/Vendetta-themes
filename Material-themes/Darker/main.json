@@ -4,10 +4,12 @@
   "semanticColors": {
     "BACKGROUND_ACCENT": ["#ff9800"],
     "BACKGROUND_PRIMARY": ["#212121"],
-    "BACKGROUND_SECONDARY": ["#292929"]
+    "BACKGROUND_SECONDARY": ["#292929"],
+    "BACKGROUND_TERTIARY": ["#1a1a1a"]
   },
   "rawColors": {
-    "BRAND_500": "#ff9800"
+    "BRAND_500": "#ff9800",
+    "PRIMARY_600": "#212121"
   },
   "spec": 2
 }
