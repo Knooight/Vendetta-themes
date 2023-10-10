@@ -1,0 +1,8 @@
+{
+  "name": "Material Darker",
+
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#ff9800"]
+  },
+  "spec": 2
+}
