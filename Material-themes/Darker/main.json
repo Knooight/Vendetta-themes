@@ -7,6 +7,7 @@
     "BACKGROUND_PRIMARY": ["#212121"],
     "BACKGROUND_SECONDARY": ["#292929"],
     "BACKGROUND_TERTIARY": ["#323232"],
+    "CHANNEL_ICON": ["#666666"],
     "INTERACTIVE_NORMAL": ["#666666"],
     "TEXT_NORMAL": ["#a7b6be"]
   },
@@ -44,6 +45,10 @@
     "GREEN_830": "#c3e88d",
     "GREEN_860": "#c3e88d",
     "GREEN_900": "#c3e88d"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy"
   },
   "spec": 2
 }
