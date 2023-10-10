@@ -3,7 +3,7 @@
 
   "semanticColors": {
     "BACKGROUND_ACCENT": ["#ff9800"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#212121"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#262626"],
     "BACKGROUND_PRIMARY": ["#212121"],
     "BACKGROUND_SECONDARY": ["#292929"],
     "BACKGROUND_TERTIARY": ["#333333"]
@@ -11,6 +11,8 @@
   "rawColors": {
     "BRAND_500": "#ff9800",
     "PRIMARY_600": "#212121",
+    "PRIMARY_630": "#292929",
+    "PRIMARY_660": "#292929",
     "PRIMARY_700": "#292929",
     "PRIMARY_800": "#1a1a1a"
   },
