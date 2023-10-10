@@ -3,18 +3,18 @@
 
   "semanticColors": {
     "BACKGROUND_ACCENT": ["#ff9800"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#262626"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#2b2b2b"],
     "BACKGROUND_PRIMARY": ["#212121"],
     "BACKGROUND_SECONDARY": ["#292929"],
-    "BACKGROUND_TERTIARY": ["#333333"]
+    "BACKGROUND_TERTIARY": ["#323232"]
   },
   "rawColors": {
     "BRAND_500": "#ff9800",
     "PRIMARY_600": "#212121",
     "PRIMARY_630": "#292929",
-    "PRIMARY_660": "#292929",
-    "PRIMARY_700": "#292929",
-    "PRIMARY_800": "#333333"
+    "PRIMARY_660": "#2e2e2e",
+    "PRIMARY_700": "#2e2e2e",
+    "PRIMARY_800": "#323232"
   },
   "spec": 2
 }
