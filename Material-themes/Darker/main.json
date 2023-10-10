@@ -6,14 +6,17 @@
     "BACKGROUND_MOBILE_SECONDARY": ["#282828"],
     "BACKGROUND_PRIMARY": ["#212121"],
     "BACKGROUND_SECONDARY": ["#292929"],
+    "BACKGROUND_SECONDARY_ALT": ["#292929"],
     "BACKGROUND_TERTIARY": ["#323232"],
+    "CHAT_BACKGROUND": ["#212121"],
     "CHANNEL_ICON": ["#666666"],
-    "INTERACTIVE_NORMAL": ["#666666"],
-    "TEXT_NORMAL": ["#a7b6be"]
+    "INTERACTIVE_NORMAL": ["#737373"],
+    "TEXT_NORMAL": ["#a7b6be"],
+    "TEXT_LINK": ["#80cbc4"]
   },
   "rawColors": {
     "BRAND_500": "#ff9800",
-    "PRIMARY_230": "#666666",
+    "PRIMARY_230": "#737373",
     "PRIMARY_600": "#212121",
     "PRIMARY_630": "#292929",
     "PRIMARY_660": "#2e2e2e",
