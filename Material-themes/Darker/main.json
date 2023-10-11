@@ -16,6 +16,7 @@
     "CHANNEL_ICON": ["#666666"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#737373"],
     "INTERACTIVE_NORMAL": ["#737373"],
+    "TEXT_MUTED": ["#808080"],
     "TEXT_NORMAL": ["#a7b6be"],
     "TEXT_LINK": ["#80cbc4"]
   },
