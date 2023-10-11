@@ -12,6 +12,7 @@
     "CARD_PRIMARY_BG": ["#212121"],
     "CARD_SECONDARY_BG": ["#2e2e2e"],
     "CHAT_BACKGROUND": ["#212121"],
+    "CHANNELS_DEFAULT": ["#808080"],
     "CHANNEL_ICON": ["#666666"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#737373"],
     "INTERACTIVE_NORMAL": ["#737373"],
@@ -21,6 +22,7 @@
   "rawColors": {
     "BRAND_500": "#ff9800",
     "PRIMARY_230": "#737373",
+    "PRIMARY_460": "#121212",
     "PRIMARY_600": "#212121",
     "PRIMARY_630": "#292929",
     "PRIMARY_660": "#2e2e2e",
