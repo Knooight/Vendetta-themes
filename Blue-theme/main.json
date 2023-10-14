@@ -1,10 +1,23 @@
 {
   "name": "undecided but blue theme",
   "description": ":)",
-  "authors": {"name": "Knooight"},
-
-  "semanticColors":{},
-  "rawColors": {},
+  "authors": {
+    "name": "Knooight"
+  },
+  "semanticColors": {
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#132e35"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#132e35"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0d1f23"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#0d1f23"
+  },
   "spec": 2,
   "plus": {}
 }
