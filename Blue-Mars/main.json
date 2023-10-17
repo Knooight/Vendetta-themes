@@ -11,7 +11,7 @@
       "#69818D"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0f2429"
+      "#10262c"
     ],
     "BACKGROUND_PRIMARY": [
       "#132E35"
@@ -28,6 +28,7 @@
   },
   "rawColors": {
     "BRAND_500": "#69818D",
+    "PRIMARY_660": "#2D4A53",
     "PRIMARY_700": "#2D4A53",
     "PRIMARY_800": "#132E35"
   },
