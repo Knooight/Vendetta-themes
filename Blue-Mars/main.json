@@ -22,6 +22,10 @@
     "BACKGROUND_SECONDARY": [
       "#0e2228"
     ],
+    "ELEVATION_HIGH": ["#3d9"],
+    "ELEVATION_LOW": ["#9a3"],
+    "ELEVATION_MEDIUM": ["#950"],
+    "ELEVATION_STROKE": ["#3f3"],
     "TEXT_LINK": [
       "#49a6be"
     ],
