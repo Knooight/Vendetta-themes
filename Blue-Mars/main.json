@@ -7,9 +7,21 @@
     }
   ],
   "semanticColors": {
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#3b4c5c"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2e4052"
+    ],
     "BACKGROUND_TERTIARY": [
       "#506C85"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#3b4c5c"
     ]
+  },
+  "rawColors": {
+    "PRIMARY_800": "#506C85"
   },
   "spec": 2
 }
