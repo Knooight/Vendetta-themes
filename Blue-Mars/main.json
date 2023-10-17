@@ -14,13 +14,16 @@
       "#10262c"
     ],
     "BACKGROUND_PRIMARY": [
-      "#132E35"
+      "#122b31"
     ],
     "BACKGROUND_TERTIARY": [
       "#0D1F23"
     ],
     "BACKGROUND_SECONDARY": [
       "#0e2228"
+    ],
+    "TEXT_LINK": [
+      "#49a6be"
     ],
     "TEXT_NORMAL": [
       "#AFB3b7"
