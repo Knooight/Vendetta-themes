@@ -125,7 +125,9 @@
             "ic_copy_message_link": "#d699b6",
             "ic_copy_id": "#d3c6aa",
             "ic_flag_24px": "#e67e80",
+            "ic_gear": "#dbbc7f",
             "ic_launch": "#7fbbb3",
+            "ic_logout_24px": "#e67e80",
             "ic_message_edit": "#83c092",
             "ic_mark_unread": "#dbbc7f",
             "ic_mention_user": "#dbbc7f",
@@ -134,6 +136,11 @@
             "ic_message_pin": "#d699b6",
             "ic_new_pins": "#d699b6",
             "ic_reply_24px": "#7fbbb3",
+            "ic_theme_24px": "#7fbbb3",
+            "ic_settings_boost_24px": "#7fbbb3",
+            "ic_settings_grey_24px": "#9da9a0",
+            "PhoneCallIcon": "#83c092",
+            "SettingsIcon": "#dbbc7f",
             "WrenchIcon": "#9da9a0"
         }
     }
