@@ -14,9 +14,9 @@
             "#24292e"
         ],
         "BACKGROUND_SECONDARY": [
+            "#282c32",
             "#292e33",
-            "#2b3036",
-            "#2f363d"
+            "#2b3036"
         ],
         "BACKGROUND_TERTIARY": [
             "#1e2428"
@@ -24,6 +24,7 @@
     },
     "rawColors": {
         "PRIMARY_600": "#24292e",
+        "PRIMARY_660": "#2b3036",
         "PRIMARY_700": "#2b3036",
         "PRIMARY_800": "#1e2428"
     },
