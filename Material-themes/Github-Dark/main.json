@@ -1,119 +1,42 @@
 {
-    "name": "Github Theme",
-    "description": "VScode Github Theme for Vendetta ;)",
+    "name": "Github-Dark",
+    "description": "A Github Dark theme.",
     "authors": [
         {
-            "name": "annoying"
+            "name": "Knooight"
         }
     ],
-    "semanticColors": {
-        "ACTIVITY_CARD_BACKGROUND ": [ 
-             "#21262d" 
-        ],
-        "BACKGROUND_FLOATING": [
-            "#21262d",
-            "#ecf2f8"
-        ],
-        "BACKGROUND_MENTIONED": [
-            "#cea5fb1a",
-            "#cea5fb1a"
-        ],
-        "BACKGROUND_MENTIONED_HOVER": [
-            "#cea5fb1a",
-            "#cea5fb1a"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#161b22",
-            "#c6cdd5"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#161b22",
-            "#c6cdd5"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#21262d",
-            "#ecf2f8"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#21262d"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#0d1117",
-            "#89929b"
-        ],
-        "CARD_PRIMARY_BG": [ 
-             "#161b22", 
-             "#ecf2f8" 
-        ],
-        "CARD_SECONDARY_BG": [ 
-             "#21262d", 
-             "#ecf2f8" 
-        ],
-        "CHANNEL_ICON": [ 
-            "#fa7970"
-        ],
-        "CHAT_BACKGROUND": [
-            "#161b22",
-            "#c6cdd5"
-        ],
-        "INPUT_BACKGROUND": [
-            "#21262d",
-            "#ecf2f8"
-        ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND ": [ 
-             "#21262d" 
-        ]
-    },
-    "rawColors": {
-        "BRAND_360" : "#cea5fb",
-        "BRAND_500" : "#a2d2fb",
-        "PRIMARY_230": "#c6cdd5",
-        "PRIMARY_400": "#89929b",
-        "PRIMARY_600": "#161b22",
-        "PRIMARY_630": "#21262d",
-        "PRIMARY_660": "#21262d",
-        "PRIMARY_700": "#21262d",
-        "GREEN_100": "#7ce38b", 
-        "GREEN_130": "#7ce38b", 
-        "GREEN_160": "#7ce38b", 
-        "GREEN_200": "#7ce38b", 
-        "GREEN_230": "#7ce38b", 
-        "GREEN_260": "#7ce38b",
-        "GREEN_300": "#7ce38b",
-        "GREEN_330": "#7ce38b", 
-        "GREEN_345": "#7ce38b", 
-        "GREEN_360": "#7ce38b", 
-        "GREEN_400": "#7ce38b", 
-        "GREEN_430": "#7ce38b", 
-        "GREEN_460": "#7ce38b", 
-        "GREEN_500": "#7ce38b", 
-        "GREEN_530": "#7ce38b", 
-        "GREEN_560": "#7ce38b", 
-        "GREEN_600": "#7ce38b", 
-        "GREEN_630": "#7ce38b", 
-        "GREEN_660": "#7ce38b", 
-        "GREEN_700": "#7ce38b",
-        "GREEN_730": "#7ce38b", 
-        "GREEN_760": "#7ce38b", 
-        "GREEN_800": "#7ce38b", 
-        "GREEN_830": "#7ce38b", 
-        "GREEN_860": "#7ce38b", 
-        "GREEN_900": "#7ce38b",
-        "RED_400": "#fa7970",
-        "YELLOW_300": "#cea5fb"
-    },
     "spec": 2,
     "plus": {
         "version": 0,
-        "iconpack": "rosiecord-plumpy",
         "icons": {
-            "ic_new_pins": "#fb4934",
-            "StatusIdle": "#eebd35",
-            "StatusDND": "#cc241d",
-            "StatusOnline": "#8ec07c",
-            "StatusMobileOnline": "#689d6a",
-            "StatusOffline": "#6e6a86",
-            "StatusStreaming": "#7fa2ac"
+            "StatusDND": "#f97583",
+            "StatusIdle": "#ffab70",
+            "StatusMobileOnline": "#85e89d",
+            "StatusOnline": "#85e89d",
+            "StatusOffline": "#959da5",
+            "StatusStreaming": "#79b8ff",
+            "ic_ban_24px": "#f97583",
+            "ic_copy_message_link": "#f9826c",
+            "ic_copy_id": "#d3c6aa",
+            "ic_flag_24px": "#f97583",
+            "ic_gear": "#ffab70",
+            "ic_launch": "#79b8ff",
+            "ic_logout_24px": "#f97583",
+            "ic_message_edit": "#85e89d",
+            "ic_mark_unread": "#ffab70",
+            "ic_mention_user": "#ffab70",
+            "ic_message_delete": "#f97583",
+            "ic_message_copy": "#e69875",
+            "ic_message_pin": "#f9826c",
+            "ic_new_pins": "#f9826c",
+            "ic_reply_24px": "#79b8ff",
+            "ic_theme_24px": "#79b8ff",
+            "ic_settings_boost_24px": "#79b8ff",
+            "ic_settings_grey_24px": "#9da9a0",
+            "PhoneCallIcon": "#85e89d",
+            "SettingsIcon": "#ffab70",
+            "WrenchIcon": "#9da9a0"
         }
     }
 }
