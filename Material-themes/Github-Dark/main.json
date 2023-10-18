@@ -7,6 +7,9 @@
         }
     ],
     "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#f9826c"
+        ],
         "BACKGROUND_PRIMARY": [
             "#24292e"
         ],
@@ -19,11 +22,17 @@
         ],
         "BACKGROUND_TERTIARY": [
             "#1e2428"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#1e2428"
         ]
     },
     "rawColors": {
+        "BRAND_360": "#79b8ff",
+        "BRAND_500": "#f9826c",
+        "BRAND_560": "#79b8ff",
         "PRIMARY_600": "#24292e",
-        "PRIMARY_660": "#2b3036",
+        "PRIMARY_660": "#1e2428",
         "PRIMARY_700": "#1e2428",
         "PRIMARY_800": "#1e2428"
     },
