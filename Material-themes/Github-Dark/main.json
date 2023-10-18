@@ -6,6 +6,17 @@
             "name": "Knooight"
         }
     ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#24292e"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1e2428"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#24292e"
+        ]
+    },
     "spec": 2,
     "plus": {
         "version": 0,
@@ -17,7 +28,7 @@
             "StatusOffline": "#959da5",
             "StatusStreaming": "#79b8ff",
             "ic_ban_24px": "#f97583",
-            "ic_copy_message_link": "#f9826c",
+            "ic_copy_message_link": "#79b8ff",
             "ic_copy_id": "#d3c6aa",
             "ic_flag_24px": "#f97583",
             "ic_gear": "#ffab70",
