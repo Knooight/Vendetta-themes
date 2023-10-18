@@ -4,11 +4,8 @@
         "BACKGROUND_ACCENT": [
             "#3c515d"
         ],
-        "BACKGROUND_FLOATING": [
-            "#2e383c"
-        ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1e2326"
+            "#23292c"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#272e33"
@@ -80,6 +77,7 @@
         "PRIMARY_630": "#272e33",
         "PRIMARY_660": "#272e33",
         "PRIMARY_700": "#272e33",
+        "PRIMARY_800": "#2e383c",
         "GREEN_100": "#a7c080",
         "GREEN_130": "#a7c080",
         "GREEN_160": "#a7c080",
@@ -123,7 +121,11 @@
             "StatusOnline": "#a7c080",
             "StatusMobileOnline": "#a7c080",
             "StatusOffline": "#4f5b58",
-            "StatusStreaming": "#7fbbb3"
+            "StatusStreaming": "#7fbbb3",
+            "ic_reply_24px": "#7fbbb3",
+            "ic_ban_24px": "#e67e80",
+            "ic_mention_user": "#dbbc7f",
+            "WrenchIcon": "#9da9a0"
         }
     }
 }
