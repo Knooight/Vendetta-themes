@@ -25,6 +25,16 @@
         ],
         "CARD_PRIMARY_BG": [
             "#1e2428"
+        ],
+        "HEADER_PRIMARY": [
+            "#f9826c",
+            "#bc5e5e"
+        ],
+        "TEXT_NORMAL": [
+            "#e1e4e8"
+        ],
+        "TEXT_LINK": [
+            "#79b8ff"
         ]
     },
     "rawColors": {
@@ -54,18 +64,25 @@
             "ic_launch": "#79b8ff",
             "ic_logout_24px": "#f97583",
             "ic_message_edit": "#85e89d",
-            "ic_mark_unread": "#ffab70",
+            "ic_mark_unread": "#b392f0",
             "ic_mention_user": "#ffab70",
             "ic_message_delete": "#f97583",
-            "ic_message_copy": "#e69875",
+            "ic_message_copy": "#ffab70",
             "ic_message_pin": "#f9826c",
             "ic_new_pins": "#f9826c",
+            "ic_notif": "#ffab70",
+            "ic_notif_off": "#9da9a0",
+            "ic_pins": "#444d56",
             "ic_reply_24px": "#79b8ff",
+            "ic_report_message": "#e67e80",
+            "ic_search": "#444d56",
+            "ic_settings": "#444d56",
             "ic_theme_24px": "#79b8ff",
-            "ic_settings_boost_24px": "#79b8ff",
+            "ic_settings_boost_24px": "#b392f0",
             "ic_settings_grey_24px": "#9da9a0",
             "PhoneCallIcon": "#85e89d",
             "SettingsIcon": "#ffab70",
+            "ic_thread_24px": "#b392f0",
             "WrenchIcon": "#9da9a0"
         }
     }
