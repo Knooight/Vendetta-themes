@@ -13,6 +13,9 @@
     "BACKGROUND_MOBILE_SECONDARY": [
       "#2d2a2e"
     ],
+    "BACKGROUND_SECONDARY": [
+      "#403E41"
+    ],
     "BACKGROUND_TERTIARY": [
       "#221f22"
     ],
@@ -21,6 +24,7 @@
     ]
   },
   "rawColors": {
+    "PRIMARY_460": "#403E41",
     "PRIMARY_600": "#2d2a2e",
     "PRIMARY_660": "#221f22",
     "PRIMARY_700": "#221f22",
