@@ -1,0 +1,15 @@
+{
+  "name": "Monokai Pro",
+  "description": "A Monokai Pro theme",
+  "authors": [
+    {
+      "name": "Knooight"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#2D2A2E"
+    ]
+  },
+  "spec": 2
+}
