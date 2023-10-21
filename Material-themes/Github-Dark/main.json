@@ -35,6 +35,15 @@
         "CARD_SECONDARY_BG": [
             "#1e2428"
         ],
+        "CHAT_BORDER": [
+            "#1fa"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER": [
+            "#1dd"
+        ],
+        "DEPRECATED_TEXT_INPUT_BORDER_HOVER": [
+            "#11a"
+        ],
         "HEADER_PRIMARY": [
             "#fcc1b6",
             "#bc5e5e"
