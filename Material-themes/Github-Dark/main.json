@@ -27,7 +27,7 @@
             "#1e2428"
         ],
         "BORDER_FAINT": [
-            "#8a96a2"
+            "#657381"
         ],
         "CARD_PRIMARY_BG": [
             "#1e2428"
@@ -62,6 +62,8 @@
         "BRAND_360": "#79b8ff",
         "BRAND_500": "#f9826c",
         "BRAND_560": "#79b8ff",
+        "PRIMARY_300": "#a90",
+        "PRIMARY_345": "#faf",
         "PRIMARY_460": "#f9826c",
         "PRIMARY_600": "#24292e",
         "PRIMARY_630": "#292e33",
@@ -82,6 +84,7 @@
             "ic_ban_24px": "#f97583",
             "ic_copy_message_link": "#79b8ff",
             "ic_copy_id": "#d3c6aa",
+            "ic_crown_16px": "#ffab70",
             "ic_flag_24px": "#f97583",
             "ic_gear": "#ffab70",
             "ic_launch": "#79b8ff",
@@ -95,14 +98,16 @@
             "ic_new_pins": "#f9826c",
             "ic_notif": "#657381",
             "ic_notif_off": "#9da9a0",
-            "ic_pins": "#444d56",
+            "ic_pins": "#657381",
             "ic_radio_circle_checked": "#85e89d",
             "ic_radio_circle_checked__overlay": "#79b8ff",
             "ic_reply_24px": "#79b8ff",
             "ic_report_message": "#e67e80",
             "ic_search": "#657381",
-            "ic_settings": "#444d56",
+            "ic_settings": "#657381",
             "ic_theme_24px": "#79b8ff",
+            "ic_selection_checked_24px": "#85e89d",
+            "ic_selection_checked_24px__overlay": "#faf4ed",
             "ic_settings_boost_24px": "#b392f0",
             "ic_settings_grey_24px": "#9da9a0",
             "PhoneCallIcon": "#85e89d",
