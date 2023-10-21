@@ -27,7 +27,7 @@
             "#1e2428"
         ],
         "BORDER_FAINT": [
-            "#24292e"
+            "#8a96a2"
         ],
         "CARD_PRIMARY_BG": [
             "#1e2428"
@@ -49,10 +49,14 @@
             "#79b8ff"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#f97583"
+            "#fcc1b6"
         ],
-        "REDESIGN_CHANNEL_NAME_TEXT": ["#1fa"],
-        "REDESIGN_ONLY_BACKGROUND_DEFAULT": ["#f3a"]
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#1fa"
+        ],
+        "REDESIGN_ONLY_BACKGROUND_DEFAULT": [
+            "#f3a"
+        ]
     },
     "rawColors": {
         "BRAND_360": "#79b8ff",
@@ -92,6 +96,8 @@
             "ic_notif": "#657381",
             "ic_notif_off": "#9da9a0",
             "ic_pins": "#444d56",
+            "ic_radio_circle_checked": "#85e89d",
+            "ic_radio_circle_checked__overlay": "#79b8ff",
             "ic_reply_24px": "#79b8ff",
             "ic_report_message": "#e67e80",
             "ic_search": "#657381",
