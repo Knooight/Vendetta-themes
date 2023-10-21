@@ -36,8 +36,11 @@
             "#1e2428"
         ],
         "HEADER_PRIMARY": [
-            "#fcbcb0",
+            "#fcc1b6",
             "#bc5e5e"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8a96a2"
         ],
         "TEXT_NORMAL": [
             "#e1e4e8"
