@@ -39,6 +39,9 @@
             "#fcc1b6",
             "#bc5e5e"
         ],
+        "HOME_CARD_RESTING_BORDER": [
+            "#1fa"
+        ],
         "INTERACTIVE_NORMAL": [
             "#8a96a2"
         ],
@@ -47,6 +50,12 @@
         ],
         "TEXT_LINK": [
             "#79b8ff"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#292e33"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BORDER": [
+            "#444d56"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#fcc1b6"
@@ -99,6 +108,7 @@
             "ic_notif": "#657381",
             "ic_notif_off": "#9da9a0",
             "ic_pins": "#657381",
+            "ic_radio_circle": "#79b8ff",
             "ic_radio_circle_checked": "#85e89d",
             "ic_radio_circle_checked__overlay": "#79b8ff",
             "ic_reply_24px": "#79b8ff",
