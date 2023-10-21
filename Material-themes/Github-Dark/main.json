@@ -87,7 +87,10 @@
         "PRIMARY_630": "#292e33",
         "PRIMARY_660": "#1e2428",
         "PRIMARY_700": "#1e2428",
-        "PRIMARY_800": "#1e2428"
+        "PRIMARY_800": "#1e2428",
+        "RED_400": "#f97583",
+        "RED_430": "#f97583",
+        "RED_460": "#f97583"
     },
     "spec": 2,
     "plus": {
@@ -125,9 +128,9 @@
             "ic_search": "#657381",
             "ic_settings": "#657381",
             "ic_theme_24px": "#79b8ff",
-            "ic_selection_none_24px": "#9da9a0",
-            "ic_selection_checked_24px": "#85e89d",
-            "ic_selection_checked_24px__overlay": "#faf4ed",
+            "ic_selection_none_24px": "#79b8ff",
+            "ic_selection_checked_24px": "#79b8ff",
+            "ic_selection_checked_24px__overlay": "#fff",
             "ic_settings_boost_24px": "#b392f0",
             "ic_settings_grey_24px": "#9da9a0",
             "PhoneCallIcon": "#85e89d",
