@@ -7,6 +7,9 @@
         }
     ],
     "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#fae"
+        ],
         "BACKGROUND_ACCENT": [
             "#f9826c"
         ],
@@ -23,6 +26,9 @@
         "BACKGROUND_TERTIARY": [
             "#1e2428"
         ],
+        "BORDER_FAINT": ["#3fa"],
+        "BORDER_STRONG": ["#9f2"],
+        "BORDER_SUBTLE": ["#1b2"],
         "CARD_PRIMARY_BG": [
             "#1e2428"
         ],
@@ -74,12 +80,12 @@
             "ic_message_copy": "#ffab70",
             "ic_message_pin": "#f9826c",
             "ic_new_pins": "#f9826c",
-            "ic_notif": "#ffab70",
+            "ic_notif": "#657381",
             "ic_notif_off": "#9da9a0",
             "ic_pins": "#444d56",
             "ic_reply_24px": "#79b8ff",
             "ic_report_message": "#e67e80",
-            "ic_search": "#444d56",
+            "ic_search": "#657381",
             "ic_settings": "#444d56",
             "ic_theme_24px": "#79b8ff",
             "ic_settings_boost_24px": "#b392f0",
