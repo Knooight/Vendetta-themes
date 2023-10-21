@@ -27,7 +27,7 @@
             "#1e2428"
         ],
         "BORDER_FAINT": [
-            "#657381"
+            "#444d56"
         ],
         "CARD_PRIMARY_BG": [
             "#1e2428"
@@ -62,7 +62,7 @@
         "BRAND_360": "#79b8ff",
         "BRAND_500": "#f9826c",
         "BRAND_560": "#79b8ff",
-        "PRIMARY_300": "#a90",
+        "PRIMARY_300": "#f9826c",
         "PRIMARY_345": "#faf",
         "PRIMARY_460": "#f9826c",
         "PRIMARY_600": "#24292e",
@@ -106,7 +106,7 @@
             "ic_search": "#657381",
             "ic_settings": "#657381",
             "ic_theme_24px": "#79b8ff",
-            "ic_selection_checked_24px": "#85e89d",
+            "ic_selection_checked_24px": "#85e89da5",
             "ic_selection_checked_24px__overlay": "#faf4ed",
             "ic_settings_boost_24px": "#b392f0",
             "ic_settings_grey_24px": "#9da9a0",
