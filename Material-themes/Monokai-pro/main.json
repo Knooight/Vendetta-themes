@@ -7,6 +7,9 @@
     }
   ],
   "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#ffd866"
+    ],
     "BACKGROUND_PRIMARY": [
       "#2d2a2e"
     ],
@@ -24,6 +27,7 @@
     ]
   },
   "rawColors": {
+    "BRAND_500": "#ffd866",
     "PRIMARY_460": "#403E41",
     "PRIMARY_600": "#2d2a2e",
     "PRIMARY_660": "#221f22",
