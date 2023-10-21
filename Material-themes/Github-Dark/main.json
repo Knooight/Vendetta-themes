@@ -39,7 +39,7 @@
             "#1e2428"
         ],
         "CHANNEL_ICON": [
-            "#444d56"
+            "#959da5"
         ],
         "CHAT_BORDER": [
             "#2d333b"
@@ -51,8 +51,8 @@
             "#11a"
         ],
         "HEADER_PRIMARY": [
-            "#444d56",
-            "#fcc1b6",
+            "#fddad3",
+            "#959da5",
             "#bc5e5e"
         ],
         "HOME_CARD_RESTING_BORDER": [
