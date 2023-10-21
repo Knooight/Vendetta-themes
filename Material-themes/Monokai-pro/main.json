@@ -15,10 +15,15 @@
     ],
     "BACKGROUND_TERTIARY": [
       "#221f22"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#2d2a2e"
     ]
   },
   "rawColors": {
     "PRIMARY_600": "#2d2a2e",
+    "PRIMARY_660": "#221f22",
+    "PRIMARY_700": "#221f22",
     "PRIMARY_800": "#221f22"
   },
   "spec": 2
