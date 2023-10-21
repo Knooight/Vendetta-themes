@@ -8,7 +8,7 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#79b8ff"
+            "#2f363d"
         ],
         "BACKGROUND_ACCENT": [
             "#f9826c"
@@ -29,11 +29,17 @@
         "BORDER_FAINT": [
             "#444d56"
         ],
+        "BORDER_STRONG": [
+            "#444d56"
+        ],
         "CARD_PRIMARY_BG": [
             "#1e2428"
         ],
         "CARD_SECONDARY_BG": [
             "#1e2428"
+        ],
+        "CHANNEL_ICON": [
+            "#444d56"
         ],
         "CHAT_BORDER": [
             "#2d333b"
@@ -45,6 +51,7 @@
             "#11a"
         ],
         "HEADER_PRIMARY": [
+            "#444d56",
             "#fcc1b6",
             "#bc5e5e"
         ],
