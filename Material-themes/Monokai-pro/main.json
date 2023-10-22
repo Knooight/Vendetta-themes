@@ -17,6 +17,7 @@
       "#2d2a2e"
     ],
     "BACKGROUND_SECONDARY": [
+      "#383639",
       "#403E41"
     ],
     "BACKGROUND_TERTIARY": [
@@ -29,6 +30,7 @@
       "#78dce8"
     ],
     "TEXT_NORMAL": [
+      "#d2d2b3",
       "#cdcdac"
     ],
     "TEXT_LINK": [
