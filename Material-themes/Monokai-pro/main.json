@@ -24,6 +24,15 @@
     ],
     "CARD_PRIMARY_BG": [
       "#2d2a2e"
+    ],
+    "CHANNEL_ICON": [
+      "#78dce8"
+    ],
+    "TEXT_NORMAL": [
+      "#cdcdac"
+    ],
+    "TEXT_LINK": [
+      "#78dce8"
     ]
   },
   "rawColors": {
@@ -31,7 +40,7 @@
     "PRIMARY_460": "#403E41",
     "PRIMARY_600": "#2d2a2e",
     "PRIMARY_660": "#221f22",
-    "PRIMARY_700": "#221f22",
+    "PRIMARY_700": "#403e41",
     "PRIMARY_800": "#221f22"
   },
   "spec": 2
