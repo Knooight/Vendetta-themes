@@ -29,8 +29,11 @@
     "CHANNEL_ICON": [
       "#78dce8"
     ],
+    "HEADER_PRIMARY": [
+      "#ffd866"
+    ],
     "TEXT_NORMAL": [
-      "#d2d2b3",
+      "#fcfcfa",
       "#cdcdac"
     ],
     "TEXT_LINK": [
@@ -39,6 +42,7 @@
   },
   "rawColors": {
     "BRAND_500": "#ffd866",
+    "PRIMARY_230": "#c1c0c0",
     "PRIMARY_460": "#403E41",
     "PRIMARY_600": "#2d2a2e",
     "PRIMARY_660": "#221f22",
