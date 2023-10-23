@@ -7,6 +7,9 @@
     }
   ],
   "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#ffb270"
+    ],
     "BACKGROUND_ACCENT": [
       "#ffed72"
     ],
@@ -23,13 +26,19 @@
       "#273136"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1d2528"
+      "#273136"
     ],
     "BACKGROUND_TERTIARY": [
       "#161b1e"
     ],
+    "BORDER_FAINT": [
+      "#6b7678"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1d2528"
+    ],
     "CHANNELS_DEFAULT": [
-      "#b8c4c3"
+      "#8b9798"
     ],
     "TEXT_NORMAL": [
       "#f2fffc"
@@ -51,11 +60,15 @@
     "BRAND_360": "#7cd5f1",
     "BRAND_500": "#ffed72",
     "BRAND_560": "#baa0f8",
+    "PRIMARY_230": "#8b9798",
+    "PRIMARY_300": "#ffed72",
+    "PRIMARY_365": "#273136",
     "PRIMARY_600": "#1d2528",
     "PRIMARY_630": "#273136",
     "PRIMARY_660": "#273136",
     "PRIMARY_700": "#273136",
     "PRIMARY_800": "#161b1e",
+    "PRIMARY_900": "#a1a",
     "WHITE_500": "#273136",
     "YELLOW_300": "#7cd5f1"
   },
