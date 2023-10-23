@@ -7,6 +7,12 @@
     }
   ],
   "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#ffed72"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1d2528"
+    ],
     "BACKGROUND_PRIMARY": [
       "#1d2528"
     ],
@@ -15,6 +21,18 @@
     ],
     "BACKGROUND_TERTIARY": [
       "#161b1e"
+    ],
+    "TEXT_NORMAL": [
+      "#f2fffc"
+    ],
+    "TEXT_DANGER": [
+      "#ff6d7e"
+    ],
+    "TEXT_LINK": [
+      "#7cd5f1"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#8b9798"
     ]
   },
   "rawcolors": {
