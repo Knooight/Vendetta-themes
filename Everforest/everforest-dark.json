@@ -68,7 +68,7 @@
     "rawColors": {
         "BRAND_360": "#7fbbb3",
         "BRAND_500": "#83c092",
-        "BRAND_560": "#7fbbb3",
+        "BRAND_560": "#d699b6",
         "PRIMARY_100": "#d3c6aa",
         "PRIMARY_400": "#4f5b58",
         "PRIMARY_460": "#2e383c",
@@ -108,12 +108,11 @@
         "RED_430": "#e67e80",
         "RED_460": "#e67e80",
         "WHITE_500": "#d3c6aa",
-        "YELLOW_300": "#d3c6aa"
+        "YELLOW_300": "#7fbbb3"
     },
     "spec": 2,
     "plus": {
         "version": 0,
-        "iconpack": "rosiecord-plumpy",
         "icons": {
             "StatusDND": "#e67e80",
             "StatusIdle": "#dbbc7f",
