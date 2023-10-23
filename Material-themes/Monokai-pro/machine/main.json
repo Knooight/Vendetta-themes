@@ -1,0 +1,13 @@
+{
+  "name": "Monokai-Pro Machine",
+  "description": "The Monokai-pro Machine theme",
+  "authors": [
+    {
+      "name": "Knooight"
+    }
+  ],
+  "spec": 2,
+  "plus": {
+    "version": 0
+  }
+}
