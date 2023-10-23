@@ -13,6 +13,9 @@
     "BACKGROUND_MOBILE_SECONDARY": [
       "#1d2528"
     ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#273136"
+    ],
     "BACKGROUND_PRIMARY": [
       "#1d2528"
     ],
@@ -25,6 +28,9 @@
     "BACKGROUND_TERTIARY": [
       "#161b1e"
     ],
+    "CHANNELS_DEFAULT": [
+      "#b8c4c3"
+    ],
     "TEXT_NORMAL": [
       "#f2fffc"
     ],
@@ -34,14 +40,17 @@
     "TEXT_LINK": [
       "#7cd5f1"
     ],
+    "INTERACTIVE_ACTIVE": [
+      "#f2fffc"
+    ],
     "INTERACTIVE_NORMAL": [
       "#8b9798"
     ]
   },
   "rawColors": {
-    "BRAND_360": "#baa0f8",
+    "BRAND_360": "#7cd5f1",
     "BRAND_500": "#ffed72",
-    "BRAND_560": "#7cd5f1",
+    "BRAND_560": "#baa0f8",
     "PRIMARY_600": "#1d2528",
     "PRIMARY_630": "#273136",
     "PRIMARY_660": "#273136",
