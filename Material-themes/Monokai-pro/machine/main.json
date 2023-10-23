@@ -6,6 +6,27 @@
       "name": "Knooight"
     }
   ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#1d2528"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#273136"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#161b1e"
+    ]
+  },
+  "rawcolors": {
+    "BRAND_360": "#baa0f8",
+    "BRAND_500": "#ffed72",
+    "BRAND_560": "#7cd5f1",
+    "PRIMARY_600": "#1d2528",
+    "PRIMARY_630": "#273136",
+    "PRIMARY_800": "#161b1e",
+    "WHITE_500": "#273136",
+    "YELLOW_300": "#7cd5f1"
+  },
   "spec": 2,
   "plus": {
     "version": 0
