@@ -6,7 +6,9 @@
     "alpha": 0.4
   },
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#08100d"]
+    "BACKGROUND_MOBILE_SECONDARY": ["#08100d"],
+    "BACKGROUND_PRIMARY": ["#132819"],
+    "BACKGROUND_TERTIARY": ["#10201a"]
   },
   "rawColors": {
     "PRIMARY_700": "#f4a138"
