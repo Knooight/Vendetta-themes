@@ -8,11 +8,12 @@
   "semanticColors": {
     "BACKGROUND_MOBILE_SECONDARY": ["#08100d"],
     "BACKGROUND_PRIMARY": ["#132819"],
+    "BACKGROUND_SECONDARY": ["#151c12"],
     "BACKGROUND_TERTIARY": ["#10201a"],
     "CHAT_BACKGROUND": ["#f4a138"]
   },
   "rawColors": {
-    "PRIMARY_700": "#f4a138"
+    "PRIMARY_700": "#494724"
   },
   "spec": 2
 }
