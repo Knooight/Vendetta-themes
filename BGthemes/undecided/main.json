@@ -2,7 +2,14 @@
   "name": "Pixel city",
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/1020313628802564149/1167907060566982796/image.png?ex=654fd535&is=653d6035&hm=d53039e07a1d8c592687760b647e7de93188547e62f33ebe3be4c70043ac4f33&",
+    "url": "https://cdn.discordapp.com/attachments/853247350838394940/1167915012556341349/digital-drawings-joze-shimazaki-2.png?ex=654fdc9d&is=653d679d&hm=e99d89a8036701456132c286559f0046855497b8ff170d160cf7d73e49770c2d&",
     "alpha": 0.4
-  }
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#08100d"]
+  },
+  "rawColors": {
+    "PRIMARY_700": "#f4a138"
+  },
+  "spec": 2
 }
