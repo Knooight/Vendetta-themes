@@ -26,6 +26,9 @@
     "HEADER_PRIMARY": [
       "#001858", "#001858"
     ],
+    "MODAL_FOOTER_BACKGROUND": [
+      "#f3d2c1", "#f4d8c9"
+    ],
     "TEXT_NORMAL": [
       "#172c66", "#172c66"
     ],
@@ -33,6 +36,9 @@
       "#8bd3dd", "#8bd3dd"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#f3d2c1", "#f3d2c1"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#f3d2c1", "#f3d2c1"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
