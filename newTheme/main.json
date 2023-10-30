@@ -1,0 +1,28 @@
+{
+  "name": "undecided light theme",
+
+  "semanticColors": {
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#fef6e4", "#fef6e4"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#fef6e4", "#fef6e4"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#f3d2c1", "#f3d2c1"
+    ],
+    "HEADER_PRIMARY": [
+      "#001858", "#001858"
+    ],
+    "TEXT_NORMAL": [
+      "#172c66", "#172c66"
+    ],
+    "TEXT_LINK": [
+      "#8bd3dd", "#8bd3dd"
+    ]
+  },
+  "rawColors": {
+    "WHITE_500": "#f3d2c1"
+  },
+  "spec": 2
+}
