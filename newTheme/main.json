@@ -9,7 +9,7 @@
       "#fef6e4", "#fef6e4"
     ],
     "BACKGROUND_SECONDARY": [
-      "#eebea5", "#F6DFD2"
+      "#f6dfd2", "#f6dfd2"
     ],
     "BACKGROUND_TERTIARY": [
       "#f3d2c1", "#f5dacc"
@@ -45,7 +45,7 @@
       "#172c66", "#172c66"
     ],
     "TEXT_LINK": [
-      "#8bd3dd", "#8bd3dd"
+      "#8bd3dd", "#329ead"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
       "#f3d2c1", "#f5dacc"
@@ -59,8 +59,9 @@
   },
   "rawColors": {
     "BRAND_500": "#001858",
-    "PRIMARY_100": "#fef6e4",
-    "PRIMARY_130": "#f5dacc"
+    "PRIMARY_100": "#f5dacc",
+    "PRIMARY_130": "#f5dacc",
+    "PRIMARY_200": "#fef6e4"
   },
   "spec": 2
 }
