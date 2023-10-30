@@ -39,7 +39,7 @@
       "#fef6e4", "#fef6e4"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#f3d2c1", "#f4d8c9"
+      "#f3d2c1", "#f5dacc"
     ],
     "TEXT_NORMAL": [
       "#172c66", "#172c66"
@@ -48,7 +48,7 @@
       "#8bd3dd", "#8bd3dd"
     ],
     "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#f3d2c1", "#f3d2c1"
+      "#f3d2c1", "#f5dacc"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#f3d2c1", "#f3d2c1"
@@ -59,7 +59,8 @@
   },
   "rawColors": {
     "BRAND_500": "#001858",
-    "PRIMARY_100": "#fef6e4"
+    "PRIMARY_100": "#fef6e4",
+    "PRIMARY_130": "#f5dacc"
   },
   "spec": 2
 }
