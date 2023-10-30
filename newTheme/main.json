@@ -8,8 +8,14 @@
     "BACKGROUND_PRIMARY": [
       "#fef6e4", "#fef6e4"
     ],
+    "BACKGROUND_SECONDARY": [
+      "#eebea5", "#eebea5"
+    ],
     "BACKGROUND_TERTIARY": [
       "#f3d2c1", "#f3d2c1"
+    ],
+    "BORDER_FAINT": [
+      "#8bd3dd", "#8bd3dd"
     ],
     "HEADER_PRIMARY": [
       "#001858", "#001858"
@@ -22,7 +28,7 @@
     ]
   },
   "rawColors": {
-    "WHITE_500": "#f3d2c1"
+    "BRAND_500": "#001858"
   },
   "spec": 2
 }
