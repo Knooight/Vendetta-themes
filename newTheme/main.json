@@ -12,7 +12,7 @@
       "#eebea5", "#f3d2c1"
     ],
     "BACKGROUND_TERTIARY": [
-      "#f3d2c1", "#f4d8c9"
+      "#f3d2c1", "#f5dacc"
     ],
     "BG_BASE_PRIMARY": [
       "#fef6e4", "#fef6e4"
@@ -23,8 +23,20 @@
     "BORDER_FAINT": [
       "#8bd3dd", "#172c66"
     ],
+    "CARD_PRIMARY_BG": [
+      "#fef6e4", "#fef6e4"
+    ],
+    "CHAT_BACKGROUND": [
+      "#fef6e4", "#fef6e4"
+    ],
     "HEADER_PRIMARY": [
       "#001858", "#001858"
+    ],
+    "HOME_BACKGROUND": [
+      "#fef6e4", "#fef6e4"
+    ],
+    "INPUT_BACKGROUND": [
+      "#fef6e4", "#fef6e4"
     ],
     "MODAL_FOOTER_BACKGROUND": [
       "#f3d2c1", "#f4d8c9"
