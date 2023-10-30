@@ -9,13 +9,19 @@
       "#fef6e4", "#fef6e4"
     ],
     "BACKGROUND_SECONDARY": [
-      "#eebea5", "#eebea5"
+      "#eebea5", "#f3d2c1"
     ],
     "BACKGROUND_TERTIARY": [
-      "#f3d2c1", "#f4d7c7"
+      "#f3d2c1", "#f4d8c9"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#fef6e4", "#fef6e4"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#f3d2c1", "#f4d8c9"
     ],
     "BORDER_FAINT": [
-      "#8bd3dd", "#8bd3dd"
+      "#8bd3dd", "#172c66"
     ],
     "HEADER_PRIMARY": [
       "#001858", "#001858"
@@ -25,6 +31,9 @@
     ],
     "TEXT_LINK": [
       "#8bd3dd", "#8bd3dd"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#f3d2c1", "#f3d2c1"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#f3d2c1", "#f3d2c1"
