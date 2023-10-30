@@ -25,6 +25,9 @@
     ],
     "TEXT_LINK": [
       "#8bd3dd", "#8bd3dd"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#f3d2c1", "#f3d2c1"
     ]
   },
   "rawColors": {
