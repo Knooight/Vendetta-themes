@@ -1,6 +1,10 @@
 {
   "name": "Everforest Light",
   "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#b9c0ab",
+      "#b9c0ab"
+    ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#eae4ca",
       "#eae4ca"
@@ -21,6 +25,13 @@
       "#e5dfc5",
       "#e5dfc5"
     ],
+    "BORDER_FAINT": [
+      "#a6b0a0"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#eae4ca",
+      "#eae4ca"
+    ],
     "CHANNEL_ICON": [
       "#829181",
       "#829181"
@@ -36,10 +47,17 @@
     "TEXT_NORMAL": [
       "#5c6a72",
       "#5c6a72"
+    ],
+    "TEXT_LINK": [
+      "#35a77c",
+      "#35a77c"
     ]
   },
   "rawColors": {
-    "PRIMARY_130": "#e5dfc5"
+    "PRIMARY_100": "#e5dfc5",
+    "PRIMARY_130": "#e5dfc5",
+    "PRIMARY_200": "#e5dfc5",
+    "PRIMARY_230": "#e5dfc5"
   },
   "spec": 2,
   "plus": {
