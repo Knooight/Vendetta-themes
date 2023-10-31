@@ -3,7 +3,7 @@
 
   "semanticColors": {
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#eae4ca", "eae4ca"
+      "#eae4ca", "#eae4ca"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#ddd8be", "#ddd8be"
@@ -11,12 +11,15 @@
     "BACKGROUND_PRIMARY": [
       "#eae4ca", "#eae4ca"
     ],
+    "BACKGROUND_SECONDARY": [
+      "#e5e6c5", "#e5e6c5"
+    ],
     "BACKGROUND_TERTIARY": [
-      "#e5d4c5", "#e5d4c5"
+      "#e5dfc5", "#e5dfc5"
     ]
   },
   "rawColors": {
-    "PRIMARY_130": "#eae4ca"
+    "PRIMARY_130": "#e5dfc5"
   },
   "spec": 2
 }
