@@ -1,25 +1,77 @@
 {
   "name": "Everforest Light",
-
   "semanticColors": {
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#eae4ca", "#eae4ca"
+      "#eae4ca",
+      "#eae4ca"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#ddd8be", "#ddd8be"
+      "#ddd8be",
+      "#ddd8be"
     ],
     "BACKGROUND_PRIMARY": [
-      "#eae4ca", "#eae4ca"
+      "#eae4ca",
+      "#eae4ca"
     ],
     "BACKGROUND_SECONDARY": [
-      "#e5e6c5", "#e5e6c5"
+      "#e5e6c5",
+      "#d8d3ba"
     ],
     "BACKGROUND_TERTIARY": [
-      "#e5dfc5", "#e5dfc5"
+      "#e5dfc5",
+      "#e5dfc5"
+    ],
+    "CHANNEL_ICON": [
+      "#829181",
+      "#829181"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#829181",
+      "#829181"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#b9c0ab",
+      "#b9c0ab"
+    ],
+    "TEXT_NORMAL": [
+      "#5c6a72",
+      "#5c6a72"
     ]
   },
   "rawColors": {
     "PRIMARY_130": "#e5dfc5"
   },
-  "spec": 2
+  "spec": 2,
+  "plus": {
+    "version": 0,
+    "icons": {
+      "StatusDND": "#f85552",
+      "StatusIdle": "#dfa000",
+      "StatusMobileOnline": "#8da101",
+      "StatusOnline": "#8da101",
+      "StatusOffline": "#4f5b58",
+      "StatusStreaming": "#3a94c5",
+      "ic_ban_24px": "#f85552",
+      "ic_copy_message_link": "#df69ba",
+      "ic_copy_id": "#d3c6aa",
+      "ic_flag_24px": "#f85552",
+      "ic_gear": "#dfa000",
+      "ic_launch": "#3a94c5",
+      "ic_logout_24px": "#f85552",
+      "ic_message_edit": "#83c092",
+      "ic_mark_unread": "#dfa000",
+      "ic_mention_user": "#dfa000",
+      "ic_message_delete": "#f85552",
+      "ic_message_copy": "#f57d26",
+      "ic_message_pin": "#df69ba",
+      "ic_new_pins": "#df69ba",
+      "ic_reply_24px": "#3a94c5",
+      "ic_theme_24px": "#3a94c5",
+      "ic_settings_boost_24px": "#3a94c5",
+      "ic_settings_grey_24px": "#939f91",
+      "PhoneCallIcon": "#83c092",
+      "SettingsIcon": "#dfa000",
+      "WrenchIcon": "#939f91"
+    }
+  }
 }
