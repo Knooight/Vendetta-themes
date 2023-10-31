@@ -2,6 +2,9 @@
   "name": "undecided light theme",
 
   "semanticColors": {
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#fef6e4", "#fef6e4"
+    ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#fef6e4", "#fef6e4"
     ],
@@ -10,6 +13,9 @@
     ],
     "BACKGROUND_SECONDARY": [
       "#f6dfd2", "#f6dfd2"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#f4d8c9", "#f4d8c9"
     ],
     "BACKGROUND_TERTIARY": [
       "#f3d2c1", "#f5dacc"
