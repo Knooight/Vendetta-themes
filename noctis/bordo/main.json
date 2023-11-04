@@ -11,7 +11,10 @@
       "#322a2d", "#322a2d"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#272022", "#272022"
+      "#282124", "#272022"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2c2527", "#2c2527"
     ],
     "BACKGROUND_TERTIARY": [
       "#1f191b", "#1f191b"
@@ -24,7 +27,8 @@
     ]
   },
   "rawColors": {
-    "PRIMARY_600": "#322a2d"
+    "PRIMARY_600": "#322a2d",
+    "PRIMARY_800": "#1f191b"
   },
   "spec": 2,
   "plus": {
