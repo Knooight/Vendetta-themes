@@ -6,7 +6,7 @@
       "name": "Knoight"
     }
   ],
-  "semanticColor": {
+  "semanticColors": {
     "BACKGROUND_PRIMARY": [
       "#322a2d", "#322a2d"
     ],
@@ -26,5 +26,8 @@
   "rawColors": {
     "PRIMARY_600": "#322a2d"
   },
-  "spec": 2
+  "spec": 2,
+  "plus": {
+    "version": 0
+  }
 }
