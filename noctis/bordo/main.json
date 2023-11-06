@@ -22,12 +22,17 @@
     "HEADER_PRIMARY": [
       "#bb778f", "#bb778f"
     ],
+    "INTERACTIVE_NORMAL": [
+      "#bb778f", "#bb778f"
+    ],
     "TEXT_NORMAL": [
       "#e4b781", "#e4b781"
     ]
   },
   "rawColors": {
     "PRIMARY_600": "#322a2d",
+    "PRIMARY_660": "#413036",
+    "PRIMARY_700": "#413036",
     "PRIMARY_800": "#1f191b"
   },
   "spec": 2,
