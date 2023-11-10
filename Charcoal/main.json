@@ -4,14 +4,14 @@
   
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#242f36"
+      "#192126"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#202a31"
+      "#1d262b"
     ]
   },
   "rawColors": {
-    "PRIMARY_600": "#242f36"
+    "PRIMARY_600": "#192126"
   },
   "spec": 2
 }
