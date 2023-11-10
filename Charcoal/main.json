@@ -1,0 +1,17 @@
+{
+  "name": "Charcoal",
+  "description": "A dark theme for Discord",
+  
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#242f36"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#202a31"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#242f36"
+  },
+  "spec": 2
+}
