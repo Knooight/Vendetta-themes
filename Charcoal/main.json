@@ -24,6 +24,12 @@
     "CARD_PRIMARY_BG": [
       "#13191d"
     ],
+    "CHANNEL_ICON": [
+      "#3d505c"
+    ],
+    "TEXT_LINK": [
+      "#f0c859"
+    ],
     "TEXT_NORMAL": [
       "#bac8d1"
     ]
