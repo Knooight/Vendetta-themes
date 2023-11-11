@@ -4,7 +4,7 @@
   
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#28343c"
+      "#394a56"
     ],
     "BACKGROUND_PRIMARY": [
       "#13191d"
@@ -18,12 +18,18 @@
     "BACKGROUND_TERTIARY": [
       "#0d1214"
     ],
+    "BORDER_FAINT": [
+      "#394a56"
+    ],
     "CARD_PRIMARY_BG": [
       "#13191d"
+    ],
+    "TEXT_NORMAL": [
+      "#bac8d1"
     ]
   },
   "rawColors": {
-    "BRAND_500": "#28343c",
+    "BRAND_500": "#394a56",
     "PRIMARY_600": "#13191d",
     "PRIMARY_660": "#1a2227",
     "PRIMARY_700": "#1a2227",
