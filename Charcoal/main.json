@@ -3,6 +3,9 @@
   "description": "A dark theme for Discord",
   
   "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#28343c"
+    ],
     "BACKGROUND_PRIMARY": [
       "#13191d"
     ],
@@ -13,14 +16,21 @@
       "#182024"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0e1316"
+      "#0d1214"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#13191d"
     ]
   },
   "rawColors": {
+    "BRAND_500": "#28343c",
     "PRIMARY_600": "#13191d",
     "PRIMARY_660": "#1a2227",
     "PRIMARY_700": "#1a2227",
     "PRIMARY_800": "#0f1316"
+  },
+  "plus": {
+    "version": 0
   },
   "spec": 2
 }
