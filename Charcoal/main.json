@@ -28,7 +28,7 @@
       "#3d505c"
     ],
     "HEADER_PRIMARY": [
-      "#4e6675"
+      "#567182"
     ],
     "HEADER_SECONDARY": [
       "#465b68"
@@ -45,6 +45,7 @@
   },
   "rawColors": {
     "BRAND_500": "#394a56",
+    "PRIMARY_230": "#567182",
     "PRIMARY_600": "#13191d",
     "PRIMARY_660": "#1a2227",
     "PRIMARY_700": "#1a2227",
